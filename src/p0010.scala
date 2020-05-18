@@ -23,33 +23,33 @@ case class Star(m: SimpleMatch) extends Match {
 }
 
 object Solution {
-    val alphabet = Set.from('a' to 'z')
+  val alphabet = Set.from('a' to 'z')
 
-    def parsePattern(p: String): List[Match] = {
-      var i = 0
-      var lst = List.empty[Match]
-      while (i < p.size) {
-        if (p(i) != '.' && !alphabet(p(i))) throw new IllegalStateException("Invalid pattern")
-        val m: SimpleMatch = if (p(i) == '.') Dot else Sym(p(i))
-        lst = lst :+ (if (i == p.size - 1 || p(i + 1) != '*') m else {
-          i += 1
-          Star(m)
-        })
+  def parsePattern(p: String): List[Match] = {
+    var i = 0
+    var lst = List.empty[Match]
+    while (i < p.size) {
+      if (p(i) != '.' && !alphabet(p(i))) throw new IllegalStateException("Invalid pattern")
+      val m: SimpleMatch = if (p(i) == '.') Dot else Sym(p(i))
+      lst = lst :+ (if (i == p.size - 1 || p(i + 1) != '*') m else {
         i += 1
-      }
-      return lst
+        Star(m)
+      })
+      i += 1
     }
+    return lst
+  }
 
-    def interpret(ms: List[Match], s: String): Boolean = {
-      var pos = List(0)
-      for (m <- ms) {
-        pos = pos.flatMap(p => m.matchStr(s, p))
-      }
-      pos.exists(_ == s.size)
+  def interpret(ms: List[Match], s: String): Boolean = {
+    var pos = List(0)
+    for (m <- ms) {
+      pos = pos.flatMap(p => m.matchStr(s, p))
     }
+    pos.exists(_ == s.size)
+  }
 
-    def isMatch(s: String, p: String): Boolean = {
-      val ms = parsePattern(p)
-      interpret(ms, s)
-    }
+  def isMatch(s: String, p: String): Boolean = {
+    val ms = parsePattern(p)
+    interpret(ms, s)
+  }
 }
