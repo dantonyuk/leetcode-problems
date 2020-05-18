@@ -71,6 +71,7 @@
 * #1046. [Last Stone Weight](src/p1046.scala)
 * #1051. [Height Checker](src/p1051.scala)
 * #1108. [Defanging an IP Address](src/p1108.scala)
+* #1114. [Print in Order](src/p1114.java)
 * #1143. [Longest Common Subsequence](src/p1143.scala)
 * #1179. [Reformat Department Table](src/p1179.sql)
 * #1207. [Unique Number of Occurrences](src/p1207.scala)
