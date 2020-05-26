@@ -77,6 +77,7 @@
 * #1117. [Building H20](src/p1117.java)
 * #1143. [Longest Common Subsequence](src/p1143.scala)
 * #1179. [Reformat Department Table](src/p1179.sql)
+* #1195. [Fizz Buzz Multithreaded](src/p1195.java)
 * #1207. [Unique Number of Occurrences](src/p1207.scala)
 * #1221. [Split a String in Balanced Strings](src/p1221.scala)
 * #1252. [Cells with Odd Values in a Matrix](src/p1252.scala)
