@@ -1,3 +1,5 @@
+![Link Check](https://github.com/dmitry-at-hyla/leetcode-problems/workflows/Link%20Check/badge.svg)
+
 # My solutions of leetcode problems
 
 * #1. [Two Sum](src/p0001.scala)
