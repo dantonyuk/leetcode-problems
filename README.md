@@ -19,6 +19,7 @@
 * #49. [Group Anagrams](src/0049.md)
 * #53. [Maximum Subarray](src/0053.md)
 * #55. [Jump Game](src/0055.md)
+* #58. [Length of Last Word](src/0058.md)
 * #64. [Minimum Path Sum](src/0064.md)
 * #66. [Plus One](src/0066.md)
 * #88. [Merge Sorted Array](src/0088.md)
