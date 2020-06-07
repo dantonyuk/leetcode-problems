@@ -27,6 +27,7 @@
 * #70. [Climbing Stairs](src/0070.md)
 * #83. [Remove Duplicates from Sorted List](src/0083.md)
 * #88. [Merge Sorted Array](src/0088.md)
+* #100. [Same Tree](src/0100.md)
 * #101. [Symmetric Tree](src/0101.md)
 * #104. [Maximum Depth of Binary Tree](src/0104.md)
 * #122. [Best Time to Buy and Sell Stock II](src/0122.md)
