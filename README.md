@@ -23,6 +23,7 @@
 * #64. [Minimum Path Sum](src/0064.md)
 * #66. [Plus One](src/0066.md)
 * #68. [Add Binary](src/0068.md)
+* #69. [Sqrt(x)](src/0069.md)
 * #88. [Merge Sorted Array](src/0088.md)
 * #101. [Symmetric Tree](src/0101.md)
 * #104. [Maximum Depth of Binary Tree](src/0104.md)
