@@ -22,7 +22,7 @@
 * #58. [Length of Last Word](src/0058.md)
 * #64. [Minimum Path Sum](src/0064.md)
 * #66. [Plus One](src/0066.md)
-* #68. [Add Binary](src/0068.md)
+* #67. [Add Binary](src/0067.md)
 * #69. [Sqrt(x)](src/0069.md)
 * #70. [Climbing Stairs](src/0070.md)
 * #83. [Remove Duplicates from Sorted List](src/0083.md)
