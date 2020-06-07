@@ -25,6 +25,7 @@
 * #68. [Add Binary](src/0068.md)
 * #69. [Sqrt(x)](src/0069.md)
 * #70. [Climbing Stairs](src/0070.md)
+* #83. [Remove Duplicates from Sorted List](src/0083.md)
 * #88. [Merge Sorted Array](src/0088.md)
 * #101. [Symmetric Tree](src/0101.md)
 * #104. [Maximum Depth of Binary Tree](src/0104.md)
