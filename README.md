@@ -52,6 +52,7 @@
 * #172. [Factorial Trailing Zeroes](src/0172.md)
 * #175. [Combine Two Tables](src/0175.md)
 * #176. [Second Highest Salary](src/0176.md)
+* #181. [Employees Earning More Than Their Managers](src/0181.md)
 * #189. [Rotate Array](src/0189.md)
 * #190. [Reverse Bits](src/0190.md)
 * #202. [Happy Number](src/0202.md)
