@@ -57,6 +57,7 @@
 * #183. [Customers Who Never Order](src/0183.md)
 * #189. [Rotate Array](src/0189.md)
 * #190. [Reverse Bits](src/0190.md)
+* #191. [Number of 1 Bits](src/0191.md)
 * #202. [Happy Number](src/0202.md)
 * #226. [Invert Binary Tree](src/0226.md)
 * #237. [Delete Node in a Linked List](src/0237.md)
