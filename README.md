@@ -60,6 +60,7 @@
 * #191. [Number of 1 Bits](src/0191.md)
 * #193. [Valid Phone Numbers](src/0193.md)
 * #195. [Tenth Line](src/0195.md)
+* #196. [Delete Duplicate Emails](src/0196.md)
 * #202. [Happy Number](src/0202.md)
 * #226. [Invert Binary Tree](src/0226.md)
 * #237. [Delete Node in a Linked List](src/0237.md)
