@@ -63,6 +63,7 @@
 * #196. [Delete Duplicate Emails](src/0196.md)
 * #197. [Rising Temperature](src/0197.md)
 * #202. [Happy Number](src/0202.md)
+* #203. [Remove Linked List Elements](src/0203.md)
 * #226. [Invert Binary Tree](src/0226.md)
 * #237. [Delete Node in a Linked List](src/0237.md)
 * #238. [Product of Array Except Self](src/0238.md)
