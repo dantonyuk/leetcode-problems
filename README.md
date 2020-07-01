@@ -73,6 +73,7 @@
 * #237. [Delete Node in a Linked List](src/0237.md)
 * #238. [Product of Array Except Self](src/0238.md)
 * #242. [Valid Anagram](src/0242.md)
+* #258. [Add Digits](src/0258.md)
 * #283. [Move Zeroes](src/0283.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
