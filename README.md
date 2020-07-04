@@ -64,6 +64,7 @@
 * #195. [Tenth Line](src/0195.md)
 * #196. [Delete Duplicate Emails](src/0196.md)
 * #197. [Rising Temperature](src/0197.md)
+* #198. [House Robber](src/0198.md)
 * #202. [Happy Number](src/0202.md)
 * #203. [Remove Linked List Elements](src/0203.md)
 * #205. [Isomorphic Strings](src/0205.md)
