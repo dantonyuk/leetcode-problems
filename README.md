@@ -79,6 +79,7 @@
 * #242. [Valid Anagram](src/0242.md)
 * #258. [Add Digits](src/0258.md)
 * #263. [Ugly Number](src/0263.md)
+* #268. [Missing Number](src/0268.md)
 * #283. [Move Zeroes](src/0283.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
