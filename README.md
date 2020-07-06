@@ -84,6 +84,7 @@
 * #283. [Move Zeroes](src/0283.md)
 * #290. [Word Pattern](src/0290.md)
 * #292. [Nim Game](src/0292.md)
+* #299. [Bulls and Cows](src/0299.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
