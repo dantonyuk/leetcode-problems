@@ -89,6 +89,7 @@
 * #326. [Power of Three](src/0326.md)
 * #344. [Reverse String](src/0344.md)
 * #345. [Reverse Vowels of a String](src/0345.md)
+* #349. [Intersection of Two Arrays](src/0349.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
