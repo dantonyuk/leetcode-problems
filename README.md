@@ -90,6 +90,7 @@
 * #344. [Reverse String](src/0344.md)
 * #345. [Reverse Vowels of a String](src/0345.md)
 * #349. [Intersection of Two Arrays](src/0349.md)
+* #350. [Intersection of Two Arrays II](src/0350.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
