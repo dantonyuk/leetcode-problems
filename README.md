@@ -93,6 +93,7 @@
 * #349. [Intersection of Two Arrays](src/0349.md)
 * #350. [Intersection of Two Arrays II](src/0350.md)
 * #367. [Valid Perfect Square](src/0367.md)
+* #371. [Sum of Two Integers](src/0371.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
