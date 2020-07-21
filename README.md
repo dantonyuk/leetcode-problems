@@ -97,6 +97,7 @@
 * #374. [Guess Number Higher or Lower](src/0374.md)
 * #383. [Ransom Note](src/0383.md)
 * #387. [First Unique Character in a String](src/0387.md)
+* #389. [Find the Difference](src/0389.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
