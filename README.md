@@ -100,6 +100,7 @@
 * #389. [Find the Difference](src/0389.md)
 * #401. [Binary Watch](src/0401.md)
 * #404. [Sum of Left Leaves](src/0404.md)
+* #405. [Convert a Number to Hexadecimal](src/0405.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
