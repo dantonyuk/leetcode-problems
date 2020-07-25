@@ -103,6 +103,7 @@
 * #405. [Convert a Number to Hexadecimal](src/0405.md)
 * #409. [Longest Palindrome](src/0409.md)
 * #412. [Fizz Buzz](src/0412.md)
+* #414. [Third Maximum Number](src/0414.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
 * #525. [Contiguous Array](src/0525.md)
