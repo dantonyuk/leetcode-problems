@@ -165,3 +165,4 @@
 * #1491. [Average Salary Excluding the Minimum and Maximum Salary](src/1491.md)
 * #1496. [Path Crossing](src/1496.md)
 * #1523. [Count Odd Numbers in an Interval Range](src/1523.md)
+* #1528. [Shuffle String](src/1528.md)
