@@ -161,3 +161,4 @@
 * #1337. [The K Weakest Rows in a Matrix](src/1337.md)
 * #1491. [Average Salary Excluding the Minimum and Maximum Salary](src/1491.md)
 * #1496. [Path Crossing](src/1496.md)
+* #1523. [Count Odd Numbers in an Interval Range](src/1523.md)
