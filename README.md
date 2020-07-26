@@ -72,6 +72,7 @@
 * #206. [Reverse Linked List](src/0206.md)
 * #217. [Contains Duplicate](src/0217.md)
 * #219. [Contains Duplicate II](src/0219.md)
+* #225. [Implement Stack using Queues](src/0225.md)
 * #226. [Invert Binary Tree](src/0226.md)
 * #231. [Power of Two](src/0231.md)
 * #234. [Palindrome Linked List](src/0234.md)
