@@ -98,6 +98,7 @@
 * #383. [Ransom Note](src/0383.md)
 * #387. [First Unique Character in a String](src/0387.md)
 * #389. [Find the Difference](src/0389.md)
+* #392. [Is Subsequence](src/0392.md) _Follow-up solution is not provided_
 * #401. [Binary Watch](src/0401.md)
 * #404. [Sum of Left Leaves](src/0404.md)
 * #405. [Convert a Number to Hexadecimal](src/0405.md)
