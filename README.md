@@ -91,6 +91,7 @@
 * #292. [Nim Game](src/0292.md)
 * #299. [Bulls and Cows](src/0299.md)
 * #326. [Power of Three](src/0326.md)
+* #342. [Power of Four](src/0342.md)
 * #344. [Reverse String](src/0344.md)
 * #345. [Reverse Vowels of a String](src/0345.md)
 * #349. [Intersection of Two Arrays](src/0349.md)
