@@ -119,6 +119,7 @@
 * #589. [N-ary Tree Preorder Traversal](src/0589.md)
 * #590. [N-ary Tree Postorder Traversal](src/0590.md)
 * #595. [Big Countries](src/0595.md)
+* #605. [Can Place Flowers](src/0605.md)
 * #617. [Merge Two Binary Trees](src/0617.md)
 * #627. [Swap Salary](src/0627.md)
 * #657. [Robot Return to Origin](src/0657.md)
