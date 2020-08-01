@@ -140,6 +140,7 @@
 * #922. [Sort Array By Parity II](src/0922.md)
 * #933. [Number of Recent Calls](src/0933.md)
 * #938. [Range Sum of BST](src/0938.md)
+* #941. [Valid Mountain Array](src/0941.md)
 * #942. [DI String Match](src/0942.md)
 * #944. [Delete Columns to Make Sorted](src/0944.md)
 * #961. [N-Repeated Element in Size 2N Array](src/0961.md)
