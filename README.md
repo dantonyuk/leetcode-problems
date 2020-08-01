@@ -125,6 +125,7 @@
 * #657. [Robot Return to Origin](src/0657.md)
 * #665. [Non-decreasing Array](src/0665.md)
 * #678. [Valid Parenthesis String](src/0678.md)
+* #686. [Repeated String Match](src/0686.md)
 * #700. [Search in a Binary Search Tree](src/0700.md)
 * #709. [To Lower Case](src/0709.md)
 * #728. [Self Dividing Numbers](src/0728.md)
