@@ -137,6 +137,7 @@
 * #859. [Buddy Strings](src/0859.md)
 * #876. [Middle of the Linked List](src/0876.md)
 * #905. [Sort Array By Parity](src/0905.md)
+* #914. [X of a Kind in a Deck of Cards](src/914.md)
 * #922. [Sort Array By Parity II](src/0922.md)
 * #933. [Number of Recent Calls](src/0933.md)
 * #938. [Range Sum of BST](src/0938.md)
