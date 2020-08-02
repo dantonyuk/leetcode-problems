@@ -135,6 +135,7 @@
 * #844. [Backspace String Compare](src/0844.md)
 * #852. [Peak Index in a Mountain Array](src/0852.md)
 * #859. [Buddy Strings](src/0859.md)
+* #874. [Walking Robot Simulation](src/0874.md)
 * #876. [Middle of the Linked List](src/0876.md)
 * #905. [Sort Array By Parity](src/0905.md)
 * #914. [X of a Kind in a Deck of Cards](src/914.md)
