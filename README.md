@@ -171,6 +171,7 @@
 * #1313. [Decompress Run-Length Encoded List](src/1313.md)
 * #1323. [Maximum 69 Number](src/1323.md)
 * #1337. [The K Weakest Rows in a Matrix](src/1337.md)
+* #1480. [Running Sum of 1d Array](src/1480.md)
 * #1491. [Average Salary Excluding the Minimum and Maximum Salary](src/1491.md)
 * #1496. [Path Crossing](src/1496.md)
 * #1512. [Number of Good Pairs](src/1512.md)
