@@ -175,6 +175,7 @@
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
 * #1470. [Shuffle the Array](src/1470.md)
 * #1480. [Running Sum of 1d Array](src/1480.md)
+* #1486. [XOR Operation in an Array](src/1486.md)
 * #1491. [Average Salary Excluding the Minimum and Maximum Salary](src/1491.md)
 * #1496. [Path Crossing](src/1496.md)
 * #1512. [Number of Good Pairs](src/1512.md)
