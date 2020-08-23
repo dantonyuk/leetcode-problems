@@ -172,6 +172,7 @@
 * #1323. [Maximum 69 Number](src/1323.md)
 * #1337. [The K Weakest Rows in a Matrix](src/1337.md)
 * #1342. [Number of Steps to Reduce a Number to Zero](src/1342.md)
+* #1389. [Create Target Array in the Given Order](src/1389.md)
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
 * #1470. [Shuffle the Array](src/1470.md)
 * #1480. [Running Sum of 1d Array](src/1480.md)
