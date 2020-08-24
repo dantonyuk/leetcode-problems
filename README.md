@@ -174,6 +174,7 @@
 * #1342. [Number of Steps to Reduce a Number to Zero](src/1342.md)
 * #1389. [Create Target Array in the Given Order](src/1389.md)
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
+* #1464. [Maximum Product of Two Elements in an Array](src/1464.md)
 * #1470. [Shuffle the Array](src/1470.md)
 * #1480. [Running Sum of 1d Array](src/1480.md)
 * #1486. [XOR Operation in an Array](src/1486.md)
