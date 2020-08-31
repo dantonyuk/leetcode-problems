@@ -186,3 +186,4 @@
 * #1518. [Water Bottles](src/1518.md)
 * #1523. [Count Odd Numbers in an Interval Range](src/1523.md)
 * #1528. [Shuffle String](src/1528.md)
+* #1534. [Count Good Triplets](src/1534.md)
