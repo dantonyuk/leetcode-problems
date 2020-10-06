@@ -188,6 +188,7 @@
 * #1486. [XOR Operation in an Array](src/1486.md)
 * #1491. [Average Salary Excluding the Minimum and Maximum Salary](src/1491.md)
 * #1496. [Path Crossing](src/1496.md)
+* #1502. [Can Make Arithmetic Progression From Sequence](src/1502.md)
 * #1512. [Number of Good Pairs](src/1512.md)
 * #1518. [Water Bottles](src/1518.md)
 * #1523. [Count Odd Numbers in an Interval Range](src/1523.md)
