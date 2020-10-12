@@ -137,6 +137,7 @@
 * #859. [Buddy Strings](src/0859.md)
 * #874. [Walking Robot Simulation](src/0874.md)
 * #876. [Middle of the Linked List](src/0876.md)
+* #897. [Increasing Order Search Tree](src/0897.md)
 * #905. [Sort Array By Parity](src/0905.md)
 * #914. [X of a Kind in a Deck of Cards](src/914.md)
 * #922. [Sort Array By Parity II](src/0922.md)
