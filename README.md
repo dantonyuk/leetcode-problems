@@ -177,6 +177,7 @@
 * #1365. [How Many Numbers Are Smaller Than the Current Number](src/1365.md)
 * #1370. [Increasing Decreasing String](src/1370.md)
 * #1374. [Generate a String With Characters That Have Odd Counts](src/1374.md)
+* #1380. [Lucky Numbers in a Matrix](src/1380.md)
 * #1389. [Create Target Array in the Given Order](src/1389.md)
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
 * #1436. [Destination City](src/1436.md)
