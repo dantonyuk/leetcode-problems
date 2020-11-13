@@ -200,4 +200,5 @@
 * #1534. [Count Good Triplets](src/1534.md)
 * #1572. [Matrix Diagonal Sum](src/1572.md)
 * #1588. [Sum of All Odd Length Subarrays](src/1588.md)
+* #1603. [Design Parking System](src/1603.md)
 * #1614. [Maximum Nesting Depth of the Parentheses](src/1614.md)
