@@ -202,3 +202,4 @@
 * #1588. [Sum of All Odd Length Subarrays](src/1588.md)
 * #1603. [Design Parking System](src/1603.md)
 * #1614. [Maximum Nesting Depth of the Parentheses](src/1614.md)
+* #1640. [Check Array Formation Through Concatenation](src/1640.md)
