@@ -161,6 +161,7 @@
 * #1179. [Reformat Department Table](src/1179.md)
 * #1195. [Fizz Buzz Multithreaded](src/1195.md)
 * #1207. [Unique Number of Occurrences](src/1207.md)
+* #1217. [Minimum Cost to Move Chips to The Same Position](src/1217.md)
 * #1221. [Split a String in Balanced Strings](src/1221.md)
 * #1252. [Cells with Odd Values in a Matrix](src/1252.md)
 * #1266. [Minimum Time Visiting All Points](src/1266.md)
