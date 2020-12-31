@@ -207,4 +207,5 @@
 * #1640. [Check Array Formation Through Concatenation](src/1640.md)
 * #1656. [Design an Ordered Stream](src/1656.md)
 * #1672. [Richest Customer Wealth](src/1672.md)
+* #1678. [Goal Parser Interpretation](src/1678.md)
 * #1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/1689.md)
