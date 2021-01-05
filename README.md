@@ -166,6 +166,7 @@
 * #1252. [Cells with Odd Values in a Matrix](src/1252.md)
 * #1266. [Minimum Time Visiting All Points](src/1266.md)
 * #1281. [Subtract the Product and Sum of Digits of an Integer](src/1281.md)
+* #1282. [Group the People Given the Group Size They Belong To](src/1282.md)
 * #1290. [Convert Binary Number in a Linked List to Integer](src/1290.md)
 * #1295. [Find Numbers with Even Number of Digits](src/1295.md)
 * #1299. [Replace Elements with Greatest Element on Right Side](src/1299.md)
