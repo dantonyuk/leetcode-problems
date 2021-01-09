@@ -207,6 +207,7 @@
 * #1614. [Maximum Nesting Depth of the Parentheses](src/1614.md)
 * #1640. [Check Array Formation Through Concatenation](src/1640.md)
 * #1656. [Design an Ordered Stream](src/1656.md)
+* #1662. [Check If Two String Arrays are Equivalent](src/1662.md)
 * #1672. [Richest Customer Wealth](src/1672.md)
 * #1678. [Goal Parser Interpretation](src/1678.md)
 * #1684. [Count the Number of Consistent Strings](src/1684.md)
