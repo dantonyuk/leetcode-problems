@@ -205,6 +205,7 @@
 * #1588. [Sum of All Odd Length Subarrays](src/1588.md)
 * #1603. [Design Parking System](src/1603.md)
 * #1614. [Maximum Nesting Depth of the Parentheses](src/1614.md)
+* #1637. [Widest Vertical Area Between Two Points Containing No Points](src/1637.md)
 * #1640. [Check Array Formation Through Concatenation](src/1640.md)
 * #1656. [Design an Ordered Stream](src/1656.md)
 * #1662. [Check If Two String Arrays are Equivalent](src/1662.md)
