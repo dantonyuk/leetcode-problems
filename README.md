@@ -70,6 +70,7 @@
 * #204. [Count Primes](src/0204.md)
 * #205. [Isomorphic Strings](src/0205.md)
 * #206. [Reverse Linked List](src/0206.md)
+* #208. [Implement Trie (Prefix Tree)](src/0208.md)
 * #217. [Contains Duplicate](src/0217.md)
 * #219. [Contains Duplicate II](src/0219.md)
 * #225. [Implement Stack using Queues](src/0225.md)
