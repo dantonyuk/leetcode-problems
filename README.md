@@ -213,5 +213,6 @@
 * #1672. [Richest Customer Wealth](src/1672.md)
 * #1678. [Goal Parser Interpretation](src/1678.md)
 * #1684. [Count the Number of Consistent Strings](src/1684.md)
+* #1688. [Count of Matches in Tournament](src/1688.md)
 * #1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/1689.md)
 * #1720. [Decode XORed Array](src/1720.md)
