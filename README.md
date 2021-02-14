@@ -217,3 +217,4 @@
 * #1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/1689.md)
 * #1720. [Decode XORed Array](src/1720.md)
 * #1732. [Find the Highest Altitude](src/1732.md)
+* #1768. [Merge Strings Alternately](src/1768.md)
