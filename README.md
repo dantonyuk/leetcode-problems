@@ -216,5 +216,6 @@
 * #1688. [Count of Matches in Tournament](src/1688.md)
 * #1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/1689.md)
 * #1720. [Decode XORed Array](src/1720.md)
+* #1725. [Number Of Rectangles That Can Form The Largest Square](src/1725.md)
 * #1732. [Find the Highest Altitude](src/1732.md)
 * #1768. [Merge Strings Alternately](src/1768.md)
