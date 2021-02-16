@@ -219,4 +219,5 @@
 * #1720. [Decode XORed Array](src/1720.md)
 * #1725. [Number Of Rectangles That Can Form The Largest Square](src/1725.md)
 * #1732. [Find the Highest Altitude](src/1732.md)
+* #1748. [Sum of Unique Elements](src/1748.md)
 * #1768. [Merge Strings Alternately](src/1768.md)
