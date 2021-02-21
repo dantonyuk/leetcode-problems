@@ -17,12 +17,5 @@ jobs:
       id: lc
       uses: peter-evans/link-checker@v1
 
-    - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v2
-      with:
-        title: Link Checker Report
-        content-filepath: ./link-checker/out.md
-        labels: report, automated issue
-
     - name: Fail if there were link errors
       run: exit ${{ steps.lc.outputs.exit_code }}
