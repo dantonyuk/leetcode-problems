@@ -154,6 +154,7 @@
 * #1021. [Remove Outermost Parentheses](src/1021.md)
 * #1022. [Sum of Root To Leaf Binary Numbers](src/1022.md)
 * #1046. [Last Stone Weight](src/1046.md)
+* #1047. [Remove All Adjacent Duplicates In String](src/1047.md)
 * #1051. [Height Checker](src/1051.md)
 * #1108. [Defanging an IP Address](src/1108.md)
 * #1114. [Print in Order](src/1114.md)
