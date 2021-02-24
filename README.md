@@ -225,3 +225,4 @@
 * #1742. [Maximum Number of Balls in a Box](src/1742.md)
 * #1748. [Sum of Unique Elements](src/1748.md)
 * #1768. [Merge Strings Alternately](src/1768.md)
+* #1773. [Count Items Matching a Rule](src/1773.md)
