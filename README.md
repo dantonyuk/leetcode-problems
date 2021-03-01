@@ -189,6 +189,7 @@
 * #1403. [Minimum Subsequence in Non-Increasing Order](src/1403.md)
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
 * #1436. [Destination City](src/1436.md)
+* #1441. [Build an Array With Stack Operations](src/1441.md)
 * #1450. [Number of Students Doing Homework at a Given Time](src/1450.md)
 * #1460. [Make Two Arrays Equal by Reversing Sub-arrays](src/1460.md)
 * #1464. [Maximum Product of Two Elements in an Array](src/1464.md)
