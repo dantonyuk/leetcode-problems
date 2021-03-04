@@ -134,6 +134,7 @@
 * #771. [Jewels and Stones](src/0771.md)
 * #804. [Unique Morse Code Words](src/0804.md)
 * #811. [Subdomain Visit Count](src/0811.md)
+* #821. [Shortest Distance to a Character](src/0821.md)
 * #832. [Flipping an Image](src/0832.md)
 * #844. [Backspace String Compare](src/0844.md)
 * #852. [Peak Index in a Mountain Array](src/0852.md)
