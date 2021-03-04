@@ -123,6 +123,7 @@
 * #595. [Big Countries](src/0595.md)
 * #605. [Can Place Flowers](src/0605.md)
 * #617. [Merge Two Binary Trees](src/0617.md)
+* #620. [Not Boring Movies](src/0620.md)
 * #627. [Swap Salary](src/0627.md)
 * #657. [Robot Return to Origin](src/0657.md)
 * #665. [Non-decreasing Array](src/0665.md)
