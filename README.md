@@ -116,6 +116,7 @@
 * #532. [K-diff Pairs in an Array](src/0532.md)
 * #543. [Diameter of Binary Tree](src/0543.md)
 * #557. [Reverse Words in a String III](src/0557.md)
+* #559. [Maximum Depth of N-ary Tree](src/0559.md)
 * #561. [Array Partition I](src/0561.md)
 * #581. [Shortest Unsorted Continuous Subarray](src/0581.md)
 * #589. [N-ary Tree Preorder Traversal](src/0589.md)
