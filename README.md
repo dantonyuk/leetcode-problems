@@ -155,6 +155,7 @@
 * #944. [Delete Columns to Make Sorted](src/0944.md)
 * #961. [N-Repeated Element in Size 2N Array](src/0961.md)
 * #977. [Squares of a Sorted Array](src/0977.md)
+* #1002. [Find Common Characters](src/1002.md)
 * #1021. [Remove Outermost Parentheses](src/1021.md)
 * #1022. [Sum of Root To Leaf Binary Numbers](src/1022.md)
 * #1046. [Last Stone Weight](src/1046.md)
