@@ -143,6 +143,7 @@
 * #859. [Buddy Strings](src/0859.md)
 * #874. [Walking Robot Simulation](src/0874.md)
 * #876. [Middle of the Linked List](src/0876.md)
+* #883. [Projection Area of 3D Shapes](src/0883.md)
 * #893. [Groups of Special-Equivalent Strings](src/0893.md)
 * #897. [Increasing Order Search Tree](src/0897.md)
 * #905. [Sort Array By Parity](src/0905.md)
