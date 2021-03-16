@@ -226,6 +226,7 @@
 * #1684. [Count the Number of Consistent Strings](src/1684.md)
 * #1688. [Count of Matches in Tournament](src/1688.md)
 * #1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/1689.md)
+* #1700. [Number of Students Unable to Eat Lunch](src/1700.md)
 * #1704. [Determine if String Halves Are Alike](src/1704.md)
 * #1710. [Decode XORed Array](src/1710.md)
 * #1720. [Decode XORed Array](src/1720.md)
