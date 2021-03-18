@@ -184,6 +184,7 @@
 * #1309. [Decrypt String from Alphabet to Integer Mapping](src/1309.md)
 * #1313. [Decompress Run-Length Encoded List](src/1313.md)
 * #1323. [Maximum 69 Number](src/1323.md)
+* #1332. [Remove Palindromic Subsequences](src/1332.md)
 * #1337. [The K Weakest Rows in a Matrix](src/1337.md)
 * #1342. [Number of Steps to Reduce a Number to Zero](src/1342.md)
 * #1351. [Count Negative Numbers in a Sorted Matrix](src/1351.md)
