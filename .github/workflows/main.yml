@@ -16,7 +16,7 @@ jobs:
     - name: Link Checker
       uses: lycheeverse/lychee-action@v1.0.6
       with:
-        args: --exclude-mail --exclude https://twitter.com/.* --verbose README.md src/*.md
+        args: --exclude https://twitter.com/.* --exclude a@b.com --exclude c@d.com --verbose README.md src/*.md
 
     - name: Fail if there were link errors
       run: exit ${{ steps.lc.outputs.exit_code }}
