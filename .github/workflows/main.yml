@@ -19,4 +19,4 @@ jobs:
         args: --exclude https://twitter.com/.* --exclude a@b.com --exclude c@d.com --verbose README.md src/*.md
 
     - name: Fail if there were link errors
-      run: exit ${{ steps.lc.outputs.exit_code }}
+      run: exit ${{ steps.lychee.outputs.exit_code }}
