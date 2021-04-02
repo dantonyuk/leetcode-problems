@@ -1,4 +1,4 @@
-![Link Check](https://github.com/dmitry-at-hyla/leetcode-problems/workflows/Link%20Check/badge.svg)
+![Link Check](https://github.com/dantonyuk/leetcode-problems/workflows/Link%20Check/badge.svg)
 
 # My solutions of leetcode problems
 
