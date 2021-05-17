@@ -196,7 +196,7 @@
 * #1374. [Generate a String With Characters That Have Odd Counts](src/1374.md)
 * #1380. [Lucky Numbers in a Matrix](src/1380.md)
 * #1389. [Create Target Array in the Given Order](src/1389.md)
-* #1403. [Minimum Subsequence in Non-Increasing Order](src/1403.md)
+* #1408. [String Matching in an Array](src/1408.md)
 * #1431. [Kids With the Greatest Number of Candies](src/1431.md)
 * #1436. [Destination City](src/1436.md)
 * #1441. [Build an Array With Stack Operations](src/1441.md)
