@@ -134,6 +134,7 @@
 * #709. [To Lower Case](src/0709.md)
 * #728. [Self Dividing Numbers](src/0728.md)
 * #771. [Jewels and Stones](src/0771.md)
+* #796. [Rotate String](src/0796.md)
 * #804. [Unique Morse Code Words](src/0804.md)
 * #811. [Subdomain Visit Count](src/0811.md)
 * #821. [Shortest Distance to a Character](src/0821.md)
