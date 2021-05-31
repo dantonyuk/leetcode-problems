@@ -93,6 +93,7 @@
 * #299. [Bulls and Cows](src/0299.md)
 * #303. [Range Sum Query - Immutable](src/0303.md)
 * #326. [Power of Three](src/0326.md)
+* #338. [Counting Bits](src/0338.md)
 * #342. [Power of Four](src/0342.md)
 * #344. [Reverse String](src/0344.md)
 * #345. [Reverse Vowels of a String](src/0345.md)
