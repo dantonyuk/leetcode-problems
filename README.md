@@ -115,6 +115,7 @@
 * #414. [Third Maximum Number](src/0414.md)
 * #461. [Hamming Distance](src/0461.md)
 * #485. [Max Consecutive Ones](src/0485.md)
+* #507. [Perfect Number](src/0507.md)
 * #525. [Contiguous Array](src/0525.md)
 * #532. [K-diff Pairs in an Array](src/0532.md)
 * #543. [Diameter of Binary Tree](src/0543.md)
