@@ -243,3 +243,4 @@
 * #1748. [Sum of Unique Elements](src/1748.md)
 * #1768. [Merge Strings Alternately](src/1768.md)
 * #1773. [Count Items Matching a Rule](src/1773.md)
+* #1812. [Determine Color of a Chessboard Square](src/1812.md)
