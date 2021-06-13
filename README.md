@@ -245,3 +245,4 @@
 * #1773. [Count Items Matching a Rule](src/1773.md)
 * #1812. [Determine Color of a Chessboard Square](src/1812.md)
 * #1816. [Truncate Sentence](src/1816.md)
+* #1827. [Minimum Operations to Make the Array Increasing](src/1827.md)
