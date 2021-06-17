@@ -247,3 +247,4 @@
 * #1816. [Truncate Sentence](src/1816.md)
 * #1827. [Minimum Operations to Make the Array Increasing](src/1827.md)
 * #1832. [Check if the Sentence Is Pangram](src/1832.md)
+* #1837. [Sum of Digits in Base K](src/1837.md)
